@@ -1,5 +1,5 @@
 # EchoNotes
 Note-app using php
 
-First of all, run the database.sql file in the mysql shell.
-
+First and foremost, run the "database.sql" file commands in the mysql shell.
+Run the index.php using php server to use the application.
